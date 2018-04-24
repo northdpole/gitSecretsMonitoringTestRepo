@@ -1,0 +1,20 @@
+slack-user: xoxp-asdfaslkjhl4wk5jh123lkj5h23l4kjh5l3k24jh5lk234h5lk234jh5l2k34jh5l2k34jh5kl23h45lk2j3h45lk23hj45h
+slack-bot: xoxb-asdfasd52;34lkj52;3l4kj52;3l4kj5l23kj4h5l2k34jh5lk234hg5kjh234gjk52g3kj45gk234jhg5k2j34g5kj3
+slack-workspace: xoxa-3l4kj5l23kj4h5l2k34jh5lk234hg5kjh234gjk52g3kj45gk234jhg5k2j34g5kj3
+slack-gossip-girl-toekn: xoxo-3l4kj5l23kj4h5l2k34jh5lk234hg5kjh234gjk52g3kj45gk234jhg5k2j34g5kj3
+
+openssh_priv_key: '-----BEGIN OPENSSH PRIVATE KEY-----'
+dsa:-----BEGIN DSA PRIVATE KEY-----
+-----BEGIN EC PRIVATE KEY-----
+-----BEGIN PGP PRIVATE KEY BLOCK-----')
+Facebook Oauth:facebook:'1234567890qwertyuioplkjhgfdsazxc'
+FACEBOOK:"1234567890qwertyuioplkjhgfdsazxc"
+Twitter Oauth:twitter:"1234567890qwertyuioplkjhgfdsazxc1234567890po"
+GitHub: gItHuB:'1234567890qwertyuioplkjhgfdsazxc'
+Google Oauth: ("client_secret":"asdfghjklmnbvcxzqwertyui")
+AWS API Key: 'AKIAQWERTYUIOPLKJH34'
+Heroku API Key:01234567-89ab-cdef-0123-456789abcdef
+Generic Secret: secReT: 1234567890qwertyuioplkjhgfdsazxc1234567890po3
+S3_Bucket: s3://foo.bar.baz
+
+
